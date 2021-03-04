@@ -1,5 +1,7 @@
 # Hello! 👋
 
+![Enrique's GitHub](./Assets/hero.png)
+
 My name is Enrique, and I made a career change from industrial engineering to web and software development during the pandemic. I build and improve full stack applications, including mobile apps using Flutter! I'm working as a freelancer while I look for a full time position, so reach out to me on [LinkedIn](https://www.linkedin.com/in/ehilst/) with any opportunities!
 
 <br>
