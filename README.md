@@ -58,6 +58,8 @@ My name is Enrique, and I made a career change from industrial engineering to we
 ![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=50858B)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=50858B)
 ![GitHub](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=50858B)
+![Heroku](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=50858B)
+![Swagger](https://img.shields.io/badge/Tools-Swagger-informational?style=flat&logo=Swagger&logoColor=white&color=50858B)
 ![NodeJS](https://img.shields.io/badge/Tools-NodeJS-informational?style=flat&logo=NodeJS&logoColor=white&color=50858B)
 ![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=50858B)
 ![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=50858B)
